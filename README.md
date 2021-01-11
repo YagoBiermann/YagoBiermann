@@ -1,6 +1,7 @@
 ## Hello adventure! Welcome to my profile :raising_hand:
 ![GitHub followers](https://img.shields.io/github/followers/YagoBiermann?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/YagoBiermann/hello-world-script?style=flat-square)
 <br>
+
 ### :book: **An introduction of me**
 * :mortar_board: Student of analysis and systems development at Unopar
 * :computer: Lover of technology, science, games and coffee
@@ -9,6 +10,7 @@
 * :muscle: i have a healthy lifestyle and workout hard to overcome myself everyday 
 * :hourglass_flowing_sand: i hate to be unproductive and lost time
 <br>
+
 ### :dart: My goals for 2021
  * [ ] Read Clean Code, Refactoring and Domain Driven Design books
  * [ ] Create a generic project like CRUD with API and database
@@ -17,10 +19,9 @@
 <br>
 
 ### :wrench: Languages and Tools
-![javascript](./icons/javascript.png) ![python](./icons/python.png) ![nodejs](./icons/nodejs.png) ![django](./icons/django.png) ![react](./icons/react.png) ![html](./icons/html.png) ![css](./icons/css.png) ![sass](./icons/sass.png) ![bootstrap](./icons/bootstrap.png) <br>
-![postgresql](./icons/postgresql.png) ![mongodb](./icons/mongodb.png) ![redis](./icons/redis.png) ![nginx](./icons/nginx.png) ![docker](./icons/docker.png) <br>
-![windows-10](./icons/windows-10.png) ![powershell](./icons/powershell.png) ![linux](./icons/linux.png) ![terminal](./icons/terminal.png) ![vscode](./icons/vscode.png) ![git](./icons/git.png)
-<br>
+<img alt="javascript" width="32px" src="./icons/javascript.png" /> <img alt="python" width="32px" src="./icons/python.png" /> <img alt="nodejs" width="32px" src="./icons/nodejs.png" /> <img alt="django" width="32px" src="./icons/django.png" /> <img alt="react" width="32px" src="./icons/react.png" /> <img alt="html" width="32px" src="./icons/html.png" /> <img alt="css" width="32px" src="./icons/css.png" /> <img alt="sass" width="32px" src="./icons/sass.png" /> <img alt="bootstrap" width="32px" src="./icons/bootstrap.png" /> <br>
+<img alt="postgresql" width="32px" src="./icons/postgresql.png" /> <img alt="mongodb" width="32px" src="./icons/mongodb.png" /> <img alt="redis" width="32px" src="./icons/redis.png" /> <img alt="nginx" width="32px" src="./icons/nginx.png" /> <img alt="docker" width="32px" src="./icons/docker.png" /> <br>
+<img alt="windows-10" width="32px" src="./icons/windows-10.png" /> <img alt="powershell" width="32px" src="./icons/powershell.png" /> <img alt="linux" width="32px" src="./icons/linux.png" /> <img alt="terminal" width="32px" src="./icons/terminal.png" /> <img alt="vscode" width="32px" src="./icons/vscode.png" /> <img alt="git" width="32px" src="./icons/git.png" /> <br>
 
 ### :telescope: Find me on Social Networks
 
@@ -37,5 +38,6 @@
   <img align="left" alt="Yago Biermann | Steam" width="32px" src="./icons/steam.png" />
 </a>
 <br>
+
 ### Profile Status
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YagoBiermann&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YagoBiermann&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
