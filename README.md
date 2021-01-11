@@ -22,6 +22,7 @@
 <img alt="javascript" width="32px" src="./icons/javascript.png" /> <img alt="python" width="32px" src="./icons/python.png" /> <img alt="nodejs" width="32px" src="./icons/nodejs.png" /> <img alt="django" width="32px" src="./icons/django.png" /> <img alt="react" width="32px" src="./icons/react.png" /> <img alt="html" width="32px" src="./icons/html.png" /> <img alt="css" width="32px" src="./icons/css.png" /> <img alt="sass" width="32px" src="./icons/sass.png" /> <img alt="bootstrap" width="32px" src="./icons/bootstrap.png" /> <br>
 <img alt="postgresql" width="32px" src="./icons/postgresql.png" /> <img alt="mongodb" width="32px" src="./icons/mongodb.png" /> <img alt="redis" width="32px" src="./icons/redis.png" /> <img alt="nginx" width="32px" src="./icons/nginx.png" /> <img alt="docker" width="32px" src="./icons/docker.png" /> <br>
 <img alt="windows-10" width="32px" src="./icons/windows-10.png" /> <img alt="powershell" width="32px" src="./icons/powershell.png" /> <img alt="linux" width="32px" src="./icons/linux.png" /> <img alt="terminal" width="32px" src="./icons/terminal.png" /> <img alt="vscode" width="32px" src="./icons/vscode.png" /> <img alt="git" width="32px" src="./icons/git.png" /> <br>
+<br>
 
 ### :telescope: Find me on Social Networks
 
@@ -37,6 +38,7 @@
 <a href="https://steamcommunity.com/id/NULL_Profile_URL">
   <img align="left" alt="Yago Biermann | Steam" width="32px" src="./icons/steam.png" />
 </a>
+<br>
 <br>
 
 ### Profile Status
