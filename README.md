@@ -1,4 +1,4 @@
-## Hello adventure! Welcome to my profile :raising_hand:
+## Hello adventurer! Welcome to my profile :raising_hand:
 ![GitHub followers](https://img.shields.io/github/followers/YagoBiermann?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/YagoBiermann/hello-world-script?style=flat-square)
 <br>
 
