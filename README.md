@@ -12,7 +12,7 @@
 <br>
 
 ### :dart: My goals for 2021
- * [ ] Read Clean Code, Refactoring and Domain Driven Design books
+ * [:heavy_check_mark:] Read Clean Code, Refactoring and Domain Driven Design books
  * [ ] Create a generic project like CRUD with API and database
  * [ ] Create more complex project that can be useful to other people's
  * [ ] Learn more about test automation, unit testing, continuous integration and delivery
