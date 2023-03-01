@@ -1,18 +1,20 @@
-## Hello adventurer! Welcome to my profile :raising_hand:
-![GitHub followers](https://img.shields.io/github/followers/YagoBiermann?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/YagoBiermann/hello-world-script?style=flat-square)
+## Hello developer! Welcome to my profile :raising_hand:
+![GitHub followers](https://img.shields.io/github/followers/YagoBiermann?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/YagoBiermann/ChessGame?style=flat-square)
 <br />
 
-### :book: **An introduction about me**
-* :mortar_board: Student of analysis and systems development at Unopar
-* :computer: Lover of technology, science, games and coffee
-* :books: Self-taught who loves learn something new
-* ⚡ trying to be better than yesterday and do good things to the community
-* :muscle: i have a healthy lifestyle and workout hard to overcome myself everyday 
-* :hourglass_flowing_sand: i hate to be unproductive and lost time
+### :book: **About me**
+* :mortar_board: Graduated as systems analyst and development at Unopar and IT technician at Seg
+* :dart: Currently focusing on development of microservices using dotnet framework
+* :computer: Lover of technology, arts, games and coffee
+* :books: Self-taught who loves learning something new
+* ⚡ trying to sharp my skills and make good things to the community
+* :muscle: I love to workout and overcome myself, stay healthy bro!
+* :black_nib: At free time I love to draw
+* :speech_balloon: Always up to help and share
 <br />
 
 ### :wrench: Languages and Tools
-<img alt="javascript" width="32px" src="./icons/javascript.png" /> <img alt="python" width="32px" src="./icons/python.png" /> <img alt="nodejs" width="32px" src="./icons/nodejs.png" /> <img alt="django" width="32px" src="./icons/django.png" /> <img alt="react" width="32px" src="./icons/react.png" /> <img alt="html" width="32px" src="./icons/html.png" /> <img alt="css" width="32px" src="./icons/css.png" /> <img alt="sass" width="32px" src="./icons/sass.png" /> <img alt="bootstrap" width="32px" src="./icons/bootstrap.png" /> <br>
+<img alt="Typescript" width="32px" src="./icons/typescript.png" />  <img alt="c#" width="32px" src="./icons/c%23.png" /> <img alt="nodejs" width="32px" src="./icons/nodejs.png" /> <img alt="dotnet" width="32px" src="./icons/dotnet.png" /> <img alt="react" width="32px" src="./icons/react.png" /> <img alt="html" width="32px" src="./icons/html.png" /> <img alt="css" width="32px" src="./icons/css.png" /> <br>
 <img alt="postgresql" width="32px" src="./icons/postgresql.png" /> <img alt="mongodb" width="32px" src="./icons/mongodb.png" /> <img alt="redis" width="32px" src="./icons/redis.png" /> <img alt="nginx" width="32px" src="./icons/nginx.png" /> <img alt="docker" width="32px" src="./icons/docker.png" /> <br/>
 <img alt="windows-10" width="32px" src="./icons/windows-10.png" /> <img alt="powershell" width="32px" src="./icons/powershell.png" /> <img alt="linux" width="32px" src="./icons/linux.png" /> <img alt="terminal" width="32px" src="./icons/terminal.png" /> <img alt="vscode" width="32px" src="./icons/vscode.png" /> <img alt="git" width="32px" src="./icons/git.png" /> <br>
 <br/>
@@ -28,8 +30,11 @@
 <a href="https://www.linkedin.com/in/yago-biermann">
   <img align="left" alt="Yago Biermann | Linkedin" width="32px" src="./icons/linkedin.png" />
 </a>  
-<a href="https://steamcommunity.com/id/NULL_Profile_URL">
+<a href="https://steamcommunity.com/id/4E756C6C">
   <img align="left" alt="Yago Biermann | Steam" width="32px" src="./icons/steam.png" />
+</a>
+<a href="https://steamcommunity.com/id/4E756C6C">
+  <img align="left" alt="Yago Biermann | ArtStation" width="32px" src="./icons/ArtStation-logomark-dark.svg" />
 </a>
 <br/>
 <br/>
