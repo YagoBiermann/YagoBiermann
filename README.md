@@ -6,10 +6,9 @@
 * :mortar_board: Graduated as systems analyst and development at Unopar and IT technician at Seg
 * :dart: Currently focusing on development of microservices using dotnet framework
 * :computer: Lover of technology, arts, games and coffee
-* :books: Self-taught who loves learning something new
+* :books: Self-taught who loves to learn something new
 * ⚡ trying to sharp my skills and make good things to the community
-* :muscle: I love to workout and overcome myself, stay healthy bro!
-* :black_nib: At free time I love to draw
+* :black_nib: At free time I like to draw
 * :speech_balloon: Always up to help and share
 <br />
 
@@ -33,7 +32,7 @@
 <a href="https://steamcommunity.com/id/4E756C6C">
   <img align="left" alt="Yago Biermann | Steam" width="32px" src="./icons/steam.png" />
 </a>
-<a href="https://steamcommunity.com/id/4E756C6C">
+<a href="https://www.artstation.com/yagobiermann">
   <img align="left" alt="Yago Biermann | ArtStation" width="32px" src="./icons/ArtStation-logomark-dark.svg" />
 </a>
 <br/>
